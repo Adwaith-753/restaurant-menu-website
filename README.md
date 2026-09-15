@@ -30,8 +30,6 @@ The website displays food items in different categories, along with descriptions
 
 No additional installation or dependencies are required.
 
-## 👨‍💻 Author
+## 🌐 Live Demo
 
-**Adwaith Prakash**
-
-* GitHub: [@yAdwaith Prakash](https://github.com/Adwaith-753)
+🔗 [View Live Website](https://adwaith-753.github.io/restaurant-menu-website/)
