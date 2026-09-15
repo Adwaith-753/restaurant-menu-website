@@ -28,10 +28,14 @@ The website displays food items in different categories, along with descriptions
    git clone https://github.com/Adwaith-753/restaurant-menu-website.git
 2. Open index.html in your browser.
 
-No installation required.
+No additional installation or dependencies are required.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Adwaith Prakash
+**Adwaith Prakash**
 
-GitHub: @Adwaith-753
+* GitHub: [@your-username](https://github.com/Adwaith-753)
+
+## 📄 License
+
+This project was created for educational purposes as part of an HTML5 and CSS assignment.
