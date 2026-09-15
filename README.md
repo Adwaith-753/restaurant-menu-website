@@ -34,8 +34,4 @@ No additional installation or dependencies are required.
 
 **Adwaith Prakash**
 
-* GitHub: [@your-username](https://github.com/Adwaith-753)
-
-## 📄 License
-
-This project was created for educational purposes as part of an HTML5 and CSS assignment.
+* GitHub: [@yAdwaith Prakash](https://github.com/Adwaith-753)
