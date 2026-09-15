@@ -26,3 +26,4 @@ The website displays food items in different categories, along with descriptions
 
    ```bash
    git clone https://github.com/Adwaith-753/restaurant-menu-website.git
+2. Open index.html in your browser.
