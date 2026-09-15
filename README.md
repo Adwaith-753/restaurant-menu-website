@@ -47,15 +47,6 @@ The goal of this project is to practice HTML5 structure, semantic elements, CSS 
 * **Google Fonts** — Playfair Display and Poppins
 * **Unsplash** — Food imagery
 
-## 📂 Project Structure
-
-```text
-restaurant-menu-website/
-├── index.html
-├── style.css
-└── README.md
-```
-
 ## 🎨 CSS Concepts Practiced
 
 This project demonstrates the use of:
