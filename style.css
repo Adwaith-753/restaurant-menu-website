@@ -72,8 +72,7 @@ main {
 }
 
 .menu-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  display: Flex;
   gap: 22px;
 }
 
@@ -198,7 +197,6 @@ footer p {
   }
 
   .menu-grid {
-    display: flex;
     flex-direction: column;
     gap: 20px;
   }
