@@ -198,6 +198,7 @@ footer p {
   }
 
   .menu-grid {
+    display: flex;
     flex-direction: column;
     gap: 20px;
   }
